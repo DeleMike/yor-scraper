@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "yor-scraper"
+version = "0.1.0"
+description = "An application for scraping data from a website"
+authors = ["DeleMike <akindelemichael65@gmail.com>"]
+readme = "README.md"
+packages = [{include = "yor_scraper"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
