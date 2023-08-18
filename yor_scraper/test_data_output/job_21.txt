@@ -1,0 +1,3 @@
+Company Name = TandA HR Solutions
+Skills = algorithms,python,django,databaseprogramming,oops,webtechnologies,debugging,mysql
+More Info = https://www.timesjobs.com/job-detail/python-developer-tanda-hr-solutions-gurgaon-4-to-6-yrs-jobid-EL__SLASH__irlDYNexzpSvf__PLUS__uAgZw==&source=srp
