@@ -1,7 +1,7 @@
-from yor_scraper.network_test_scraper import try_network
+from yor_scraper.global_voices_scraper import read_articles
 
 def main():
-    try_network()
+    read_articles()
 
 if __name__ == "__main__":
     main()
